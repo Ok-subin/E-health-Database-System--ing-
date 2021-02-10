@@ -1,0 +1,12 @@
+C:\Users\Ok Subin\source\repos\e-health\bin\Debug\e-health.exe.config
+C:\Users\Ok Subin\source\repos\e-health\bin\Debug\e-health.exe
+C:\Users\Ok Subin\source\repos\e-health\bin\Debug\e-health.pdb
+C:\Users\Ok Subin\source\repos\e-health\obj\Debug\e-health.csprojAssemblyReference.cache
+C:\Users\Ok Subin\source\repos\e-health\obj\Debug\e_health.Form1.resources
+C:\Users\Ok Subin\source\repos\e-health\obj\Debug\e_health.logincs.resources
+C:\Users\Ok Subin\source\repos\e-health\obj\Debug\e_health.plusUser.resources
+C:\Users\Ok Subin\source\repos\e-health\obj\Debug\e_health.Properties.Resources.resources
+C:\Users\Ok Subin\source\repos\e-health\obj\Debug\e-health.csproj.GenerateResource.cache
+C:\Users\Ok Subin\source\repos\e-health\obj\Debug\e-health.csproj.CoreCompileInputs.cache
+C:\Users\Ok Subin\source\repos\e-health\obj\Debug\e-health.exe
+C:\Users\Ok Subin\source\repos\e-health\obj\Debug\e-health.pdb
