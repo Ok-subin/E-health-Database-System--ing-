@@ -1,4 +1,3 @@
-# E-health-Database-System
 # E-Health System (C# & mySql)
 
 2020년 [데이터베이스] 수업의 과제로 진행한 '포스트 코로나 시대를 위한 원격 의료 데이터베이스의 구축" 프로젝트이다. mySql로 데이터베이스를 구축하고 C#으로 심플한 UI를 제작하여 이를 연동시켜 간단한 어플리케이션 환경을 설계했다.
@@ -51,9 +50,9 @@
 # 결론
 ### 참고 문헌
 
-[1] Choi JY, “COVID-19 in South Korea”. Post graduate Medical Journal, 96:399-402, 2020.
-[2] 백경희. (2020). 미국의 원격의료에 관한 고찰 - 코로나 19 대처에 대한 시사점을 중심으로 -. 법학논고, 70(), 363-386.
-[3] https://www.aha.org/factsheet/telehealth, 2020. 7. 25. 최종 방문.
-[4] 김대중, “주요국의 원격의료 추진 현황과 시사점 – 미국과 일본을 중심으로”, 보건・복지  Issue & Focus 제270호, 한국보건사회연구원, 2015. 2.
-[5] Jae-Hyun Lee, Youngsoo Lee, Suh-Young Lee, Hugo Van Bever, Hongfei Lou, Luo Zhang, and Park Hae-Sim, “Management of Allergic Patients During the COVID-19 Pandemic in Asia”, Allergy Asthma Immunol Res. 2020 Sep;12(5):783-791
+[1] Choi JY, “COVID-19 in South Korea”. Post graduate Medical Journal, 96:399-402, 2020. <br/>
+[2] 백경희. (2020). 미국의 원격의료에 관한 고찰 - 코로나 19 대처에 대한 시사점을 중심으로 -. 법학논고, 70(), 363-386. <br/>
+[3] https://www.aha.org/factsheet/telehealth, 2020. 7. 25. 최종 방문. <br/>
+[4] 김대중, “주요국의 원격의료 추진 현황과 시사점 – 미국과 일본을 중심으로”, 보건・복지  Issue & Focus 제270호, 한국보건사회연구원, 2015. 2. <br/>
+[5] Jae-Hyun Lee, Youngsoo Lee, Suh-Young Lee, Hugo Van Bever, Hongfei Lou, Luo Zhang, and Park Hae-Sim, “Management of Allergic Patients During the COVID-19 Pandemic in Asia”, Allergy Asthma Immunol Res. 2020 Sep;12(5):783-791 <br/>
 [6] Kim Su jeong, Jin Hyun Jung, and Kim So Ri, “Management of severe Asthma During the COVID-19 Pandemic in Korea”, Allergy Asthma Immunol Res. 2020 Sep;12(5):897-901
